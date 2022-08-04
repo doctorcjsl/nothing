@@ -1,8 +1,8 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
+  <a href="https://github.com/doctorcjsl/Adv-Auto-Filter-Bot-V2/stargazers">
+    <img src="https://img.shields.io/github/stars/doctorcjsl/Adv-Auto-Filter-Bot-V2?style=social">
 
   </a>
   
@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
+Join Our [Telegram Group](https://t.me/movie_link_lk) For Support/Assistance And Our [Channel](https://t.me/+aHONzFk7kbVhY2Zl) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
